@@ -1,2 +1,2 @@
 # First-Jupyter-Notebook
-I love technology
+This is a Jupyter Notebook.
